@@ -1,4 +1,3 @@
-
 from numpy import array
 
 def Kepler(U,t):
@@ -7,7 +6,7 @@ def Kepler(U,t):
     m = (x ** 2 + y ** 2) ** 0.5
     
     if m == 0:
-        # Evita la división por cero
+        # Evita la divisiÃ³n por cero
         return array([vx, vy, 0, 0])
     
     return array ([vx, vy, -x/m, -y/m])
