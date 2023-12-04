@@ -1,4 +1,3 @@
-
 from scipy.optimize import newton
 
 def Euler(U, t1, t2, F):
