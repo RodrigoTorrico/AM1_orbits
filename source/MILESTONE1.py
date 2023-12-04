@@ -95,9 +95,3 @@ plt.ylabel('Eje y')
 plt.show()
 
 # Con RK4 tenemos el mismo problema que con Euler, en cambio, el error tarda mas N es aparecer
-
-
-
-# Para el hito 2
-# Recordar funciones de primera clase
-# 
