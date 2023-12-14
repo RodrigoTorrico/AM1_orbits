@@ -1,4 +1,4 @@
-# AM1_orbits
+# AM1_orbits: Rodrigo Torrico Gijón
 In this repository, you can find the weekly milestones:
   - Milestone 1: Prototypes to integrate orbits without functions
   - Milestone 2: Prototypes to integrate orbits with functions
