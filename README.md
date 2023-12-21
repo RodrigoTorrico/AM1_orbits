@@ -39,3 +39,7 @@ In this repository, you can find the weekly milestones:
 
    This milestone discusses Arenstorf's periodic orbit and how to simulate it using numerical methods.
 
+La __estructura jerárquica__ del Milestone 7 puede apreciarse en la siguiente imagen:
+<p align="center">
+  <img src=".\EstructuraCodigo.jpg" alt="Descripción de la imagen">
+</p>
